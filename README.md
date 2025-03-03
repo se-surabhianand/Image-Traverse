@@ -30,7 +30,7 @@ VITE_UNSPLASH_API_KEY=YOUR_KEY
 Finally clone this repository, install dependencies and run the local server
 
 ```bash
-git clone https://github.com/se-ashishgupta/Image-Traverse
+git clone https://github.com/se-surabhianand/Image-Traverse
 ```
 
 ```bash
