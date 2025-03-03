@@ -1,0 +1,8 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
